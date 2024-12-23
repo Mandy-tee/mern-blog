@@ -223,13 +223,13 @@ footer {
 
 /*================= HOME ================= */
 /*================= POSTS ================= */
-.post_container {
+.posts_container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 4rem;
 }
 
-.post {
+.posts {
     background: var(--color-white);
     padding: 1rem;
     border-radius: var(--radius-4);
